@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topansatria" alt="topansatria" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/effdjr" target="blank"><img src="https://img.shields.io/twitter/follow/effdjr?logo=twitter&style=for-the-badge" alt="effdjr" /></a> </p>
 
 - 🔭 I’m currently working on **Web & Android Development.**
 
@@ -23,6 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/effdjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="effdjr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/topansatria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="topansatria" height="30" width="40" /></a>
+<a href="https://fb.com/xniubie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xniubie" height="30" width="40" /></a>
 <a href="https://instagram.com/_aabongg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aabongg" height="30" width="40" /></a>
 </p>
 
